@@ -1,9 +1,9 @@
-TASK 1: Automate Code Deployment Using CI/CD Pipeline (GitHub Actions)
+## TASK 1: Automate Code Deployment Using CI/CD Pipeline (GitHub Actions)
 
 Create a GitHub Repository
 
 
-Add secrets  in our git Hub Repo 
+## Add secrets  in our git Hub Repo 
 
 1 DOCKER_USERNAME
 2 DOCKER_PASSWORD
@@ -31,11 +31,11 @@ Create A Docker File
 Send Our All Files on Our Git hub Repo
 
 
->> Create a Github action File .
+## Create a Github action File .
 When it will be Success
->>
->> We can login our github account
->>
+
+We can login our github account
+
 Show Here our Push image
 ##   Pull Our Docker image in Our EC2 or Local ubuntu
 
@@ -53,7 +53,7 @@ with if we are doing this in local we can use   localhost:3000
 
 Our app is running 
 
-u
+
 
 
  
